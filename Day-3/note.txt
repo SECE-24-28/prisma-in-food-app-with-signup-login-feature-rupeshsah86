@@ -1,0 +1,12 @@
+Next.js
+it is a framework 
+- suppport ssr
+-improved seo
+
+types of routing in thr next.js
+1) page routing -  it will used in pages like floww : pages->api->
+2) app routing - 
+
+
+
+Dynamic routing 
