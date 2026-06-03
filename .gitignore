@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules/
 dist/
 .vscode/
+=======
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+>>>>>>> 94e7792c449def481c81d7bcdff6bdd0d778d154
